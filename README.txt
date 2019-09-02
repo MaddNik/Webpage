@@ -1,1 +1,1 @@
-This is a static webpage designed in my free time, any suggestion appreciated
+This is a webpage designed in my free time, any suggestion appreciated
